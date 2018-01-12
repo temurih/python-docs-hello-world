@@ -1,2 +1,2 @@
 [config]
-project = flask/helloWorld
+command = deploy.cmd
